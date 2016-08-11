@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tabs">
+        <item>古典</item>
+        <item>民谣</item>
+        <item>电音</item>
+    </string-array>
+</resources>
